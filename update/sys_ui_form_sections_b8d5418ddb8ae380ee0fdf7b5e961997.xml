@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b8d5418ddb8ae380ee0fdf7b5e961997" sys_domain="global" table="x_snc_porto_saude_concessao_comercial" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38d5418ddb8ae380ee0fdf7b5e96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_porto_saude_concessao_comercial" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961997</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">3c324d09db8ae380ee0fdf7b5e9619c3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34d5418ddb8ae380ee0fdf7b5e96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_porto_saude_concessao_comercial" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961997</sys_ui_form>
+            <sys_ui_section caption="Assunto" display_value="Assunto" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961994</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74d5418ddb8ae380ee0fdf7b5e96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_porto_saude_concessao_comercial" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961997</sys_ui_form>
+            <sys_ui_section caption="Solicitante" display_value="Solicitante" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">74d5418ddb8ae380ee0fdf7b5e961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30d5418ddb8ae380ee0fdf7b5e9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_porto_saude_concessao_comercial" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961997</sys_ui_form>
+            <sys_ui_section caption="Corretor" display_value="Corretor" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">30d5418ddb8ae380ee0fdf7b5e961996</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70d5418ddb8ae380ee0fdf7b5e9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_porto_saude_concessao_comercial" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">b8d5418ddb8ae380ee0fdf7b5e961997</sys_ui_form>
+            <sys_ui_section caption="Parecer" display_value="Parecer" name="x_snc_porto_saude_concessao_comercial" sys_domain="global" view="Default view">f8d5418ddb8ae380ee0fdf7b5e961996</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:20:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8d5418ddb8ae380ee0fdf7b5e961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_porto_saude_concessao_comercial</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Porto Saude" source="x_snc_porto_saude">bdff7405db8ae380ee0fdf7b5e961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Porto Saude">bdff7405db8ae380ee0fdf7b5e961914</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b8d5418ddb8ae380ee0fdf7b5e961997</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:20:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

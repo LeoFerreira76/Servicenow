@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Concessao Comercial" max_length="40" name="x_snc_porto_saude_concessao_comercial" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Categoria" max_length="40" name="u_categoria" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Reembolso" sequence="0" value="reembolso"/>
+                <element inactive_on_update="false" label="Prorrogação" sequence="1" value="prorrogação"/>
+                <element inactive_on_update="false" label="Desconto" sequence="2" value="desconto"/>
+            </choice>
+        </element>
+        <element label="Estipulante" mandatory="true" max_length="32" name="u_estipulante" reference="customer_contact" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="novo" label="Etapa" max_length="40" name="u_etapa" read_only="true" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Nova" sequence="0" value="nova"/>
+                <element inactive_on_update="false" label="Novo" sequence="0" value="novo"/>
+                <element inactive="true" inactive_on_update="true" label="Análise" sequence="1" value="análise"/>
+                <element inactive_on_update="false" label="Aprovação" sequence="1" value="aprovação"/>
+                <element inactive_on_update="false" label="De acordo" sequence="2" value="de acordo"/>
+                <element inactive_on_update="false" label="Concluir" sequence="3" value="concluir"/>
+                <element inactive_on_update="false" label="Encerrado" sequence="4" value="encerrado"/>
+                <element inactive_on_update="false" label="Cancelado" sequence="5" value="cancelado"/>
+            </choice>
+        </element>
+        <element label="Motivo Devolução" max_length="65536" name="u_motivo_devolucao" type="html"/>
+        <element label="Número de Vidas" max_length="40" name="u_num_vidas" type="integer"/>
+        <element label="Parecer" max_length="65536" name="u_parecer" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Plano" max_length="40" name="u_plano" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Básico" sequence="0" value="basico"/>
+                <element inactive_on_update="false" label="Avançado" sequence="1" value="avançado"/>
+                <element inactive_on_update="false" label="Executivo" sequence="2" value="executivo"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Valor Prêmio" max_length="20" name="u_premio" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Valor Solicitado" max_length="20" name="u_valorsolicitado" type="currency"/>
+        <element label="Vig Inicial Apolice" max_length="40" name="u_vig_inicial" type="glide_date"/>
+    </element>
+</database>

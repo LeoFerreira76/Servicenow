@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_etapa" table="x_snc_porto_saude_concessao_comercial" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Nova</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36074101dbcae380ee0fdf7b5e9619c5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:32:02</sys_updated_on>
+            <value>nova</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Novo</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:32:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2680d41dbcae380ee0fdf7b5e9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:32:02</sys_updated_on>
+            <value>novo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Análise</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a074101dbcae380ee0fdf7b5e9619c7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:32:02</sys_updated_on>
+            <value>análise</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aprovação</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a074101dbcae380ee0fdf7b5e9619c9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:32:02</sys_updated_on>
+            <value>aprovação</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>De acordo</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba074101dbcae380ee0fdf7b5e9619cb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:32:02</sys_updated_on>
+            <value>de acordo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Concluir</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:40:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d47a4d05dbcae380ee0fdf7b5e961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:40:53</sys_updated_on>
+            <value>concluir</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Encerrado</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa074101dbcae380ee0fdf7b5e9619cd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:40:53</sys_updated_on>
+            <value>encerrado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_etapa</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelado</label>
+            <language>en</language>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e074101dbcae380ee0fdf7b5e9619cf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:40:53</sys_updated_on>
+            <value>cancelado</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_etapa</element>
+            <name>x_snc_porto_saude_concessao_comercial</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-26 12:26:03</sys_created_on>
+            <sys_id>7e074101dbcae380ee0fdf7b5e9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_etapa</sys_name>
+            <sys_package display_value="Porto Saude" source="x_snc_porto_saude">bdff7405db8ae380ee0fdf7b5e961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Porto Saude">bdff7405db8ae380ee0fdf7b5e961914</sys_scope>
+            <sys_update_name>sys_choice_x_snc_porto_saude_concessao_comercial_u_etapa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:26:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
